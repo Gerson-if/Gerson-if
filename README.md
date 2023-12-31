@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
-- 🌱 Atualmente, estou aprendendo e aprimorando minhas habilidades em Flutter e Dart.
+- 🌱 Atualmente, estou aprendendo e aprimorando minhas habilidades em Flutter e React.
 - 🔭 Estou trabalhando em projetos interessantes para expandir meu conhecimento.
 - 🤝 Estou sempre aberto a colaborações e discussões sobre desenvolvimento de software.
 
@@ -42,7 +42,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
 #### Vamos Conectar!
 
-- 📫 Entre em contato comigo pelo [LinkedIn](seu_link_do_LinkedIn) ou [E-mail](seu_endereco_de_email).
+- 📫 Entre em contato comigo pelo [LinkedIn](https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb) ou [Discord](seu_nome_no_discord#sua_tag).
 - ⚡ Curiosidade: [Fun Fact sobre você].
 
 ---
