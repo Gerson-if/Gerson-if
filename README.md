@@ -43,12 +43,13 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 #### Vamos Conectar!
 
 - 📫 Entre em contato comigo pelo [LinkedIn](https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb) ou [Discord](seu_nome_no_discord#sua_tag).
-- ⚡ Curiosidade: [Fun Fact sobre você].
+- ⚡ Curiosidade:
+🌟 **Fun Fact:** Estou sempre em busca de novos desafios e aprendizados!
 
 ---
 
 #### Efeito de Animação:
 
 <p align="center">
-  <!-- Adicione aqui qualquer efeito de animação que você deseja incorporar -->
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Matrix Effect" width="300" height="200"/>
 </p>
