@@ -48,7 +48,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
 ---
 
-#### Efeito de Animação:
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Matrix Effect" width="300" height="200"/>
