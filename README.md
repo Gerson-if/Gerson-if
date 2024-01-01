@@ -44,7 +44,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
 - 📫 Entre em contato comigo pelo [LinkedIn](https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb) ou [Discord](seu_nome_no_discord#sua_tag).
 - ⚡ Curiosidade:
-🌟 **Fun Fact:** Estou sempre em busca de novos desafios e aprendizados!
+🌟 Estou sempre em busca de novos desafios e aprendizados!
 
 ---
 
