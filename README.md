@@ -36,7 +36,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 #### Projetos Recentes:
 
 - [Projeto 1](https://entechsoftware.com.br/gourmet) - Catálogo de Geladinhos Gourmet com menu de pedidos.
-- [Projeto 2](link_do_projeto_2) - Descrição do Projeto 2.
+- [Projeto 2](https://entechsoftware.com.br/app_frases/) - Aplicação que Gera frases de Feliz ano Novo.
 
 ---
 
