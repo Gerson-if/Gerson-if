@@ -35,8 +35,9 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
 #### Projetos Recentes:
 
-- [Projeto 1](https://entechsoftware.com.br/gourmet) - Catálogo de Geladinhos Gourmet com menu de pedidos.
-- [Projeto 2](https://entechsoftware.com.br/app_frases/) - Aplicação que Gera frases de Feliz ano Novo.
+- [Projeto_catalogo](https://entechsoftware.com.br/gourmet) - Catálogo de Geladinhos Gourmet com menu de pedidos.
+- [Projeto_app_flutter](https://entechsoftware.com.br/app_frases/) - Aplicação que Gera frases de Feliz ano Novo.
+- [Projeto_saida](https://github.com/Gerson-if/projeto_saida) - API de registros de saidas de locais com painel admin
 
 ---
 
