@@ -1,4 +1,3 @@
-User
 ### Olá! 👋 Eu sou Gerson!
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação.
