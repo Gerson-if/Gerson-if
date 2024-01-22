@@ -8,20 +8,16 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
 ---
 
-#### Linguagens e Ferramentas:
+#### Tecnologias que eu trabalho:
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <!-- Adicione mais ícones aqui -->
 </p>
 
 ---
 
-#### Estatísticas:
+#### Minhas Estatísticas:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson-if&layout=compact&theme=dark" alt="Top Languages" />
@@ -33,11 +29,11 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
 ---
 
-#### Projetos Recentes:
+#### Meus Projetos Recentes:
 
-- [Projeto_catalogo](https://entechsoftware.com.br/gourmet) - Catálogo de Geladinhos Gourmet com menu de pedidos.
-- [Projeto_app_flutter](https://entechsoftware.com.br/app_frases/) - Aplicação que Gera frases de Feliz ano Novo.
-- [Projeto_saida](https://github.com/Gerson-if/projeto_saida) - API de registros de saidas de locais com painel admin
+- [Projeto Catálogo de Geladinhos Gourmet](https://entechsoftware.com.br/gourmet) - Catálogo de Geladinhos Gourmet com menu de pedidos.
+- [Projeto Frases de Feliz Ano Novo](https://entechsoftware.com.br/app_frases/) - Aplicação que gera frases de Feliz Ano Novo.
+- [Projeto de Registros de Saídas](https://github.com/Gerson-if/projeto_saida) - API de registros de saídas de locais com painel admin
 
 ---
 
@@ -45,10 +41,9 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
 - 📫 Entre em contato comigo pelo [LinkedIn](https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb) ou [Discord](seu_nome_no_discord#sua_tag).
 - ⚡ Curiosidade:
-🌟 Estou sempre em busca de novos desafios e aprendizados!
+  - 🌟 Estou sempre em busca de novos desafios e aprendizados!
 
 ---
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Matrix Effect" width="300" height="200"/>
