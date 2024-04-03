@@ -12,7 +12,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/GDScript_logo.svg/1200px-GDScript_logo.svg.png" alt="GDScript" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/6318500?s=200&v=4" alt="Godot" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
