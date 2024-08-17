@@ -35,9 +35,9 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 ---
 
 #### Projetos Recentes:
-
+- [Projeto_Configurador de Servidor linux](https://github.com/Gerson-if/script_servidor_linux) - Script linux que configura ambiente para  desenvolvimento e implatação de sistemas.
 - [Projeto_catalogo](https://entechsoftware.com.br/gourmet) - Catálogo de Geladinhos Gourmet com menu de pedidos.
-- [Projeto_app_flutter](https://entechsoftware.com.br/app_frases/) - Aplicação que Gera frases de Feliz ano Novo.
+- [Projeto separador de sprite](https://github.com/Gerson-if/SpriteSheetSlicer) - Aplicação web que separa sprites, Artes para games.
 - [Projeto_saida](https://github.com/Gerson-if/projeto_saida) - API de registros de saidas de locais com painel admin
 
 ---
