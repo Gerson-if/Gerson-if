@@ -44,7 +44,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
 #### Vamos Conectar!
 
-- 📫 Entre em contato comigo pelo [LinkedIn](https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb) ou [Discord](Gerson#2705).
+- 📫 Entre em contato comigo pelo [LinkedIn](https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb) ou [Me adicione no Discord: Gerson#2705](Gerson#2705).
 - ⚡ Curiosidade:
 🌟 Estou sempre em busca de novos desafios e aprendizados!
 
