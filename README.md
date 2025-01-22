@@ -36,7 +36,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 #### Projetos Recentes:
 - [Projeto_Configurador de Servidor linux](https://github.com/Gerson-if/script_servidor_linux) - Script linux que configura ambiente para  desenvolvimento e implatação de sistemas.
 - [Projeto_catalogo](https://entechsoftware.com.br/gourmet) - Catálogo de Geladinhos Gourmet com menu de pedidos.
-- [Sword Fantansy RPG](https://github.com/Gerson-if/SwordFantasy) - Projeto Sword Fantasy do Curso Godot Ingine
+- [Sword Fantansy RPG](https://github.com/Gerson-if/SwordFantansy) - Projeto Sword Fantansy do Curso Godot Engine
 - [Projeto_saida](https://github.com/Gerson-if/projeto_saida) - API de registros de saidas de locais com painel admin Em uso no EB
 
 ---
