@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
-- 🌱 Atualmente, estou aprendendo e aprimorando minhas habilidades com a GODOT,GDscript.
+- 🌱 Atualmente, estou aprendendo e aprimorando minhas habilidades com a GODOT,GDscript e Flask.
 - 🔭 Estou trabalhando em projetos interessantes para expandir meu conhecimento.
 - 🤝 Estou sempre aberto a colaborações e discussões sobre desenvolvimento de software.
 
