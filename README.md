@@ -36,7 +36,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
 #### Projetos Recentes:
 - [Projeto_Configurador de Servidor linux](https://github.com/Gerson-if/script_servidor_linux) - Script linux que configura ambiente para  desenvolvimento e implatação de sistemas.
-- [Projeto_Musica](https://github.com/Gerson-if/ProjetoMusicaFlask) - Curso de Flask.
+- [Projeto_Musica](https://github.com/Gerson-if/CursoFlask) - Curso Flask em Andamento.
 - [Sword Fantansy RPG](https://github.com/Gerson-if/SwordFantansy) - Projeto Sword Fantansy do Curso Godot Engine
 - [Projeto_saida](https://github.com/Gerson-if/projeto_saida) - Aplicação de registros de saidas de locais com painel admin Em uso no EB
 
