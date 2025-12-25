@@ -22,15 +22,17 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
 ---
 
-#### Estatísticas:
+### 📊 Estatísticas & Panorama Técnico
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson-if&layout=compact&theme=dark" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gerson-if&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson-if&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gerson-if&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gerson-if&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
