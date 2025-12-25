@@ -24,14 +24,14 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
 #### 📊 Estatísticas & Panorama Técnico
 
-<!-- Visão geral -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerson-if&theme=tokyonight" />
-
-<!-- Estatísticas -->
 <p align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerson-if&theme=tokyonight" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gerson-if&theme=tokyonight" />
+  <img height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerson-if&theme=tokyonight" />
+
+  <img height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gerson-if&theme=tokyonight" />
 </p>
+
 
 
 ---
