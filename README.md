@@ -25,7 +25,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 #### 📊 Panorama Técnico & Atividade
 
 <!-- Visão geral -->
-<img
+<img align="center"
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerson-if&theme=tokyonight"
 />
 
