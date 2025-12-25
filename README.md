@@ -25,21 +25,11 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 #### 📊 Estatísticas & Panorama Técnico
 
 <p align="center">
-  <img height="165"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api
-    ?username=Gerson-if
-    &show_icons=true
-    &include_all_commits=true
-    &hide_border=true
-    &theme=tokyonight" />
-
-  <img height="165"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs
-    ?username=Gerson-if
-    &layout=compact
-    &langs_count=6
-    &hide_border=true
-    &theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com
+    ?user=Gerson-if
+    &theme=tokyonight
+    &hide_border=true" />
 </p>
 
 
