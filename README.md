@@ -22,8 +22,35 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
 ---
 
-#### 📊 Estatísticas & Panorama Técnico
+#### 📊 Panorama Técnico & Atividade
 
+<!-- Visão geral -->
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerson-if&theme=tokyonight"
+/>
+
+<!-- Estatísticas + produtividade -->
+<p align="center">
+  <img height="160"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerson-if&theme=tokyonight" />
+  <img height="160"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gerson-if&theme=tokyonight&utcOffset=-3" />
+</p>
+
+<!-- Linguagens -->
+<p align="center">
+  <img height="160"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gerson-if&theme=tokyonight" />
+  <img height="160"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gerson-if&theme=tokyonight" />
+</p>
+
+<!-- Gráfico de atividade -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Gerson-if&theme=tokyo-night&hide_border=true"
+/>
+
+<!-- Stack -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=yellow" />
   <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white" />
@@ -31,6 +58,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
   <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=orange" />
   <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=blue" />
 </p>
+
 
 
 
