@@ -25,12 +25,13 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 #### 📊 Estatísticas & Panorama Técnico
 
 <p align="center">
-  <img height="170"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerson-if&theme=tokyonight" />
-
-  <img height="170"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gerson-if&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=orange" />
+  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=blue" />
 </p>
+
 
 
 
