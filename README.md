@@ -26,11 +26,22 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
 <p align="center">
   <img height="170"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gerson-if&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+    src="https://github-readme-stats-gerson-if.vercel.app/api
+    ?username=Gerson-if
+    &show_icons=true
+    &theme=tokyonight
+    &hide_border=true
+    &include_all_commits=true" />
 
   <img height="170"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gerson-if&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    src="https://github-readme-stats-gerson-if.vercel.app/api/top-langs
+    ?username=Gerson-if
+    &layout=compact
+    &langs_count=8
+    &theme=tokyonight
+    &hide_border=true" />
 </p>
+
 
 ---
 
