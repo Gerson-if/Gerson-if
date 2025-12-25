@@ -22,7 +22,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
 ---
 
-## 📊 Estatísticas & Panorama Técnico
+#### 📊 Estatísticas & Panorama Técnico
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gerson-if&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
