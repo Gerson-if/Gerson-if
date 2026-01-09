@@ -1,6 +1,6 @@
 ### Olá! 👋 Eu sou Gerson!
 
-Sou um profissional apaixonado por tecnologia e inovação.
+Sou um profissional de tecnologia e inovação.
 
 - 🌱 Atualmente, estou aprendendo e aprimorando minhas habilidades com a GODOT,GDscript e Flask.
 - 🔭 Estou trabalhando em projetos interessantes para expandir meu conhecimento.
