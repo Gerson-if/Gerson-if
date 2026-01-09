@@ -2,7 +2,7 @@
 
 Sou um profissional de tecnologia e inovação.
 
-- 🌱 Atualmente, estou aprendendo e aprimorando minhas habilidades com a GODOT,GDscript e Flask.
+- 🌱 Atualmente, estou aprendendo e aprimorando minhas habilidades com o Python e Flask.
 - 🔭 Estou trabalhando em projetos interessantes para expandir meu conhecimento.
 - 🤝 Estou sempre aberto a colaborações e discussões sobre desenvolvimento de software.
 
