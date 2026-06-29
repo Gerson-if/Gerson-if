@@ -1,89 +1,195 @@
-### Olá! 👋 Eu sou Gerson!
-
-Sou um profissional de tecnologia e inovação.
-
-- 🌱 Atualmente, estou aprendendo e aprimorando minhas habilidades com o Python e Flask.
-- 🔭 Estou trabalhando em projetos interessantes para expandir meu conhecimento.
-- 🤝 Estou sempre aberto a colaborações e discussões sobre desenvolvimento de software.
-
----
-
-#### Linguagens e Ferramentas:
+# 👋 Olá! Eu sou Gerson Ferreira
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="MySQL" width="40" height="40"/>
+  <strong>Desenvolvedor Back-end • Python • Flask • Linux • Automação</strong>
+</p>
+
+<p align="center">
+  Apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.
+</p>
+
+<p align="center">
+  <a href="https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Gerson-if&style=for-the-badge&color=0e75b6"/>
 </p>
 
 ---
 
-#### 📊 Panorama Técnico & Atividade
+# 🚀 Sobre mim
 
-<!-- Visão geral -->
-<p align="center">
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerson-if&theme=tokyonight"
-/>
-</p>
+🎓 Formado em:
 
-<!-- Estatísticas + produtividade -->
-<p align="center">
-  <img height="160"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gerson-if&theme=tokyonight" />
-  <img height="160"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gerson-if&theme=tokyonight&utcOffset=-3" />
-</p>
+* Análise e Desenvolvimento de Sistemas
+* Gestão Financeira
+* Formação Pedagógica em Matemática
 
-<!-- Linguagens -->
-<p align="center">
-  <img height="160"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gerson-if&theme=tokyonight" />
-  <img height="160"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gerson-if&theme=tokyonight" />
-</p>
+Atualmente concentro meus estudos e projetos em desenvolvimento **Back-end** utilizando **Python** e **Flask**, buscando criar aplicações seguras, organizadas e escaláveis.
 
-<!-- Gráfico de atividade -->
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Gerson-if&theme=tokyo-night&hide_border=true"
-/>
+Tenho interesse em:
 
-<!-- Stack -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=orange" />
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=blue" />
-</p>
+* 💻 Desenvolvimento Web
+* 🐧 Linux
+* 🗄 Banco de Dados
+* 🔒 Segurança da Informação
+* ⚙️ Arquitetura de Software
+* ☁️ Infraestrutura
+* 🤖 Automação
 
-
-
-
+Sempre busco aprender novas tecnologias e transformá-las em projetos práticos.
 
 ---
 
-#### Projetos Recentes:
-- [Projeto_Configurador de Servidor linux](https://github.com/Gerson-if/script_servidor_linux) - Script linux que configura ambiente para  desenvolvimento e implatação de sistemas.
-- [Projeto_Musica](https://github.com/Gerson-if/CursoFlask) - Curso Flask em Andamento.
-- [Sword Fantansy RPG](https://github.com/Gerson-if/SwordFantansy) - Projeto Sword Fantansy do Curso Godot Engine
-- [Projeto_saida](https://github.com/Gerson-if/projeto_saida) - Aplicação de registros de saidas de locais com painel admin Em uso no EB
-
----
-
-#### Vamos Conectar!
-
-- 📫 Entre em contato comigo pelo [LinkedIn](https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb).
-- ⚡ Curiosidade:
-🌟 Estou sempre em busca de novos desafios e aprendizados!
-
----
-
+# 🛠 Tecnologias
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Matrix Effect" width="300" height="200"/>
+
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,git,github,linux,mysql,docker,vscode,godot"/>
+
+</p>
+
+---
+
+# 📊 Estatísticas
+
+<p align="center">
+
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerson-if&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=Gerson-if&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson-if&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Gerson-if&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Projetos em Destaque
+
+## 🔐 Projeto Saída
+
+Sistema web para gerenciamento de registros de saída, desenvolvido para uso administrativo.
+
+### Principais recursos
+
+* Autenticação de usuários
+* Controle de permissões
+* Painel Administrativo
+* Cadastro de usuários
+* Cadastro de subunidades
+* Exportação de relatórios
+* Dashboard com indicadores
+* Interface responsiva
+
+**Tecnologias**
+
+`Python` • `Flask` • `SQLAlchemy` • `Bootstrap` • `MySQL`
+
+🔗 https://github.com/Gerson-if/projeto_saida
+
+---
+
+## 🐧 Script Servidor Linux
+
+Automatiza a configuração de servidores Linux para ambientes de desenvolvimento e implantação.
+
+**Tecnologias**
+
+`Bash` • `Linux`
+
+🔗 https://github.com/Gerson-if/script_servidor_linux
+
+---
+
+## 🎮 Sword Fantasy RPG
+
+Projeto desenvolvido durante os estudos da Godot Engine para aprendizado de desenvolvimento de jogos.
+
+**Tecnologias**
+
+`Godot Engine` • `GDScript`
+
+🔗 https://github.com/Gerson-if/SwordFantansy
+
+---
+
+## 📚 Curso Flask
+
+Repositório utilizado para estudos, testes e implementação de recursos utilizando Flask.
+
+**Tecnologias**
+
+`Python` • `Flask`
+
+🔗 https://github.com/Gerson-if/CursoFlask
+
+---
+
+# 📖 Atualmente estudando
+
+* Python Avançado
+* Flask
+* SQLAlchemy
+* Docker
+* Linux
+* Git e GitHub
+* Arquitetura de Software
+* APIs REST
+* Segurança de Aplicações Web
+
+---
+
+# 📈 Objetivos
+
+* Desenvolver aplicações cada vez mais robustas.
+* Aprimorar conhecimentos em arquitetura de software.
+* Expandir habilidades em DevOps e infraestrutura Linux.
+* Contribuir com projetos Open Source.
+* Criar soluções que gerem impacto positivo.
+
+---
+
+# 📫 Contato
+
+<p align="center">
+
+<a href="https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Filosofia
+
+> "A tecnologia evolui diariamente. Aprender continuamente é a melhor forma de acompanhar essa evolução."
+
+---
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="320"/>
+
+</p>
+
+<p align="center">
+
+⭐ Obrigado por visitar meu perfil!
+
 </p>
