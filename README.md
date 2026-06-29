@@ -18,8 +18,6 @@
 
 ## 🚀 Sobre mim
 
-🎓 Formado em **Análise e Desenvolvimento de Sistemas**, **Gestão Financeira** e **Formação Pedagógica em Matemática**.
-
 Atualmente concentro meus estudos em **Python** e **Flask**, buscando compreender como desenvolver aplicações completas, desde a modelagem até a entrega de sistemas organizados, seguros e úteis.
 
 Acredito que a melhor forma de aprender é desenvolvendo projetos. Por isso, utilizo cada novo desafio como uma oportunidade para experimentar soluções, aprimorar meu código e evoluir continuamente.
