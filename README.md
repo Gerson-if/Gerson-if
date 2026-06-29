@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Gosto de aprender construindo projetos, testando ideias e transformando conhecimento em aplicações que resolvam problemas reais.
+  Aprendendo, construindo projetos e evoluindo um código de cada vez.
 </p>
 
 <p align="center">
@@ -20,9 +20,9 @@
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**, **Gestão Financeira** e **Formação Pedagógica em Matemática**.
 
-Atualmente estou focado em aprender **Python** e **Flask**, buscando compreender como desenvolver aplicações web completas, desde a estrutura do projeto até funcionalidades que possam gerar impacto real.
+Atualmente estou focado em aprender **Python** e **Flask**, buscando compreender como desenvolver aplicações web completas, organizadas e capazes de resolver problemas reais.
 
-Acredito que a melhor forma de aprender é colocando a mão no código. Por isso, utilizo meus projetos como ambiente para experimentar novas soluções, corrigir erros e evoluir continuamente.
+Gosto de aprender na prática, desenvolvendo projetos, experimentando novas soluções e aprimorando continuamente minhas habilidades.
 
 ---
 
@@ -59,19 +59,9 @@ Acredito que a melhor forma de aprender é colocando a mão no código. Por isso
 
 ### Projeto Saída
 
-Sistema web desenvolvido em Flask para gerenciamento de registros de saída, criado para aplicar na prática conceitos de autenticação, permissões, banco de dados e organização de aplicações.
+Aplicação web desenvolvida com **Flask** para gerenciamento de registros de saída, **atualmente em uso nas Forças Armadas**, servindo como meu principal projeto de aprendizado e evolução.
 
-**Principais recursos**
-
-* Login e autenticação
-* Controle de permissões
-* Dashboard
-* Painel administrativo
-* Relatórios
-* Exportação de dados
-
-🔗 **Repositório**
-
+🔗 **Repositório:**
 https://github.com/Gerson-if/projeto_saida
 
 ---
@@ -80,18 +70,15 @@ https://github.com/Gerson-if/projeto_saida
 
 <p align="center">
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=Gerson-if&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gerson-if&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson-if&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson-if&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Gerson-if&theme=tokyo-night&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gerson-if&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -99,8 +86,8 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Gerson-if&th
 
 ## 📂 Outros projetos
 
-* 🐧 **Script Servidor Linux** — Automação da configuração de ambientes Linux.
-* 📚 **Curso Flask** — Repositório de estudos e experimentos com Flask.
+* 🐧 **Script Servidor Linux** — Configuração automatizada de ambientes Linux.
+* 📚 **Curso Flask** — Estudos e experimentos com Flask.
 * 🎮 **Sword Fantasy RPG** — Projeto desenvolvido durante os estudos da Godot Engine.
 
 ---
@@ -108,11 +95,9 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Gerson-if&th
 ## 📫 Contato
 
 <p align="center">
-
-<a href="https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
