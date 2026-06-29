@@ -1,11 +1,11 @@
 # 👋 Olá! Eu sou Gerson Ferreira
 
 <p align="center">
-  <strong>Desenvolvedor em formação • Python • Flask • Desenvolvimento Web</strong>
+  <strong>Desenvolvedor Back-end • Python • Flask</strong>
 </p>
 
 <p align="center">
-  Aprendendo, construindo projetos e evoluindo um código de cada vez.
+  Gosto de aprender construindo projetos, testando ideias e transformando conhecimento em aplicações que resolvam problemas reais.
 </p>
 
 <p align="center">
@@ -20,13 +20,13 @@
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**, **Gestão Financeira** e **Formação Pedagógica em Matemática**.
 
-Atualmente estou focado em aprender **Python** e **Flask**, buscando compreender como desenvolver aplicações web completas, organizadas e capazes de resolver problemas reais.
+Atualmente concentro meus estudos em **Python** e **Flask**, buscando compreender como desenvolver aplicações completas, desde a modelagem até a entrega de sistemas organizados, seguros e úteis.
 
-Gosto de aprender na prática, desenvolvendo projetos, experimentando novas soluções e aprimorando continuamente minhas habilidades.
+Acredito que a melhor forma de aprender é desenvolvendo projetos. Por isso, utilizo cada novo desafio como uma oportunidade para experimentar soluções, aprimorar meu código e evoluir continuamente.
 
 ---
 
-## 🎯 Meu foco
+## 📚 Atualmente estudando
 
 * 🐍 Python
 * 🌐 Flask
@@ -41,28 +41,22 @@ Gosto de aprender na prática, desenvolvendo projetos, experimentando novas solu
 
 ## 🛠 Tecnologias
 
-### Foco principal
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,flask"/>
-</p>
-
-### Também utilizo
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql,git,github,vscode,godot"/>
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,mysql,git,github,vscode,godot"/>
 </p>
 
 ---
 
 ## ⭐ Projeto em destaque
 
-### Projeto Saída
+### 🔐 Projeto Saída
 
-Aplicação web desenvolvida com **Flask** para gerenciamento de registros de saída, **atualmente em uso nas Forças Armadas**, servindo como meu principal projeto de aprendizado e evolução.
+Sistema web desenvolvido em **Flask** para gerenciamento de registros de saída.
 
-🔗 **Repositório:**
-https://github.com/Gerson-if/projeto_saida
+O projeto foi **implementado e testado em uma Organização Militar do Exército Brasileiro**, sendo utilizado como ferramenta de apoio para o controle administrativo, representando meu principal projeto de aprendizado e evolução.
+
+**Repositório:**
+🔗 https://github.com/Gerson-if/projeto_saida
 
 ---
 
@@ -70,15 +64,11 @@ https://github.com/Gerson-if/projeto_saida
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gerson-if&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=Gerson-if&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson-if&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gerson-if&theme=tokyo-night&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson-if&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -86,22 +76,46 @@ https://github.com/Gerson-if/projeto_saida
 
 ## 📂 Outros projetos
 
-* 🐧 **Script Servidor Linux** — Configuração automatizada de ambientes Linux.
-* 📚 **Curso Flask** — Estudos e experimentos com Flask.
-* 🎮 **Sword Fantasy RPG** — Projeto desenvolvido durante os estudos da Godot Engine.
+### 🐧 Script Servidor Linux
+
+Automação da configuração de ambientes Linux para desenvolvimento e implantação.
+
+🔗 https://github.com/Gerson-if/script_servidor_linux
+
+---
+
+### 📚 Curso Flask
+
+Repositório utilizado para estudos e experimentação com Flask.
+
+🔗 https://github.com/Gerson-if/CursoFlask
+
+---
+
+### 🎮 Sword Fantasy RPG
+
+Projeto desenvolvido durante os estudos da Godot Engine.
+
+🔗 https://github.com/Gerson-if/SwordFantansy
 
 ---
 
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+<a href="https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-💡 <em>"Aprender, construir e evoluir um projeto de cada vez."</em>
+
+💡 <strong>"Aprender, construir, testar e evoluir. Um projeto de cada vez."</strong>
+
 </p>
