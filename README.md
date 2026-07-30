@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Gerson Ferreira"/>
   </a>
 </p>
 
@@ -40,7 +40,7 @@ Acredito que a melhor forma de aprender é desenvolvendo projetos. Por isso, uti
 ## 🛠 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,mysql,git,github,vscode,godot"/>
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,mysql,git,github,vscode,godot" alt="Tecnologias e Ferramentas"/>
 </p>
 
 ---
@@ -61,13 +61,8 @@ O projeto foi **implementado e testado em uma Organização Militar do Exército
 ## 📊 GitHub
 
 <p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Gerson-if&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson-if&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gerson-if&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de Gerson"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson-if&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas por Gerson"/>
 </p>
 
 ---
@@ -101,19 +96,13 @@ Projeto desenvolvido durante os estudos da Godot Engine.
 ## 📫 Contato
 
 <p align="center">
-
-<a href="https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
+  <a href="https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Gerson Ferreira"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-💡 <strong>"Aprender, construir, testar e evoluir. Um projeto de cada vez."</strong>
-
+  💡 <strong>"Aprender, construir, testar e evoluir. Um projeto de cada vez."</strong>
 </p>
