@@ -60,10 +60,13 @@ O projeto foi **implementado e testado em uma Organização Militar do Exército
 
 ## 📊 GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gerson-if&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de Gerson"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson-if&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas por Gerson"/>
-</p>
+<div align="center">
+
+[![Estatísticas do GitHub de Gerson](https://github-readme-stats.vercel.app/api?username=Gerson-if&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Gerson-if)
+
+[![Linguagens mais utilizadas por Gerson](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson-if&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Gerson-if)
+
+</div>
 
 ---
 
