@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Gerson Ferreira"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -40,7 +40,7 @@ Acredito que a melhor forma de aprender é desenvolvendo projetos. Por isso, uti
 ## 🛠 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,mysql,git,github,vscode,godot" alt="Tecnologias e Ferramentas"/>
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,mysql,git,github,vscode,godot"/>
 </p>
 
 ---
@@ -60,13 +60,15 @@ O projeto foi **implementado e testado em uma Organização Militar do Exército
 
 ## 📊 GitHub
 
-<div align="center">
+<p align="center">
 
-[![Estatísticas do GitHub de Gerson](https://github-readme-stats.vercel.app/api?username=Gerson-if&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Gerson-if)
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=Gerson-if&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-[![Linguagens mais utilizadas por Gerson](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson-if&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Gerson-if)
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson-if&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
@@ -99,13 +101,19 @@ Projeto desenvolvido durante os estudos da Godot Engine.
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Gerson Ferreira"/>
-  </a>
+
+<a href="https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  💡 <strong>"Aprender, construir, testar e evoluir. Um projeto de cada vez."</strong>
-</p>
+
+💡 <strong>"Aprender, construir, testar e evoluir. Um projeto de cada vez."</strong>
+
+</p>corrigir graficos que nao estao fucionando por favor 
