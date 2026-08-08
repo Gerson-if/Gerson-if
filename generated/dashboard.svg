@@ -19,7 +19,7 @@
     <g class="fade-up" style="animation-delay:0.08s">
       <rect x="291" y="58" width="251" height="78" rx="8" fill="#161b22" stroke="#30363d"/>
       <text x="305" y="84" fill="#8b949e" font-size="13" font-family="sans-serif">Commits (ano atual)</text>
-      <text x="305" y="116" fill="#f0f6fc" font-size="26" font-weight="700" font-family="sans-serif">117</text>
+      <text x="305" y="116" fill="#f0f6fc" font-size="26" font-weight="700" font-family="sans-serif">119</text>
     </g>
     <g class="fade-up" style="animation-delay:0.16s">
       <rect x="558" y="58" width="251" height="78" rx="8" fill="#161b22" stroke="#30363d"/>
@@ -46,14 +46,14 @@
     <text x="64" y="255.5" fill="#8b949e" font-size="10" font-family="sans-serif" text-anchor="end">60</text>
     <line x1="74" y1="204.0" x2="694" y2="204.0" stroke="#21262d" stroke-width="1"/>
     <text x="64" y="208.0" fill="#8b949e" font-size="10" font-family="sans-serif" text-anchor="end">80</text>
-    <path d="M74.0,389.3 L177.3,394.0 L280.7,394.0 L384.0,394.0 L487.3,329.9 L590.7,225.4 L694.0,360.8 L694.0,394 L74.0,394 Z" fill="#2ea043" fill-opacity="0" class="area-fade"/>
-    <path d="M74.0,389.3 L177.3,394.0 L280.7,394.0 L384.0,394.0 L487.3,329.9 L590.7,225.4 L694.0,360.8" fill="none" stroke="#2ea043" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"
-      style="stroke-dasharray:753;stroke-dashoffset:753;animation:draw 1.6s ease forwards;animation-delay:.3s"/>
+    <path d="M74.0,389.3 L177.3,394.0 L280.7,394.0 L384.0,394.0 L487.3,329.9 L590.7,225.4 L694.0,356.0 L694.0,394 L74.0,394 Z" fill="#2ea043" fill-opacity="0" class="area-fade"/>
+    <path d="M74.0,389.3 L177.3,394.0 L280.7,394.0 L384.0,394.0 L487.3,329.9 L590.7,225.4 L694.0,356.0" fill="none" stroke="#2ea043" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"
+      style="stroke-dasharray:750;stroke-dashoffset:750;animation:draw 1.6s ease forwards;animation-delay:.3s"/>
     <path d="M74.0,394.0 L177.3,394.0 L280.7,394.0 L384.0,394.0 L487.3,377.4 L590.7,379.8 L694.0,394.0" fill="none" stroke="#a371f7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
       style="stroke-dasharray:627;stroke-dashoffset:627;animation:draw 1.6s ease forwards;animation-delay:.5s"/>
     <path d="M74.0,394.0 L177.3,394.0 L280.7,394.0 L384.0,394.0 L487.3,394.0 L590.7,394.0 L694.0,394.0" fill="none" stroke="#d29922" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
       style="stroke-dasharray:624;stroke-dashoffset:624;animation:draw 1.6s ease forwards;animation-delay:.7s"/>
-    <circle class="dot" style="animation-delay:1.50s" cx="74.0" cy="389.3" r="3" fill="#2ea043"/><circle class="dot" style="animation-delay:1.55s" cx="74.0" cy="394.0" r="3" fill="#a371f7"/><circle class="dot" style="animation-delay:1.60s" cx="74.0" cy="394.0" r="3" fill="#d29922"/><circle class="dot" style="animation-delay:1.50s" cx="177.3" cy="394.0" r="3" fill="#2ea043"/><circle class="dot" style="animation-delay:1.55s" cx="177.3" cy="394.0" r="3" fill="#a371f7"/><circle class="dot" style="animation-delay:1.60s" cx="177.3" cy="394.0" r="3" fill="#d29922"/><circle class="dot" style="animation-delay:1.50s" cx="280.7" cy="394.0" r="3" fill="#2ea043"/><circle class="dot" style="animation-delay:1.55s" cx="280.7" cy="394.0" r="3" fill="#a371f7"/><circle class="dot" style="animation-delay:1.60s" cx="280.7" cy="394.0" r="3" fill="#d29922"/><circle class="dot" style="animation-delay:1.50s" cx="384.0" cy="394.0" r="3" fill="#2ea043"/><circle class="dot" style="animation-delay:1.55s" cx="384.0" cy="394.0" r="3" fill="#a371f7"/><circle class="dot" style="animation-delay:1.60s" cx="384.0" cy="394.0" r="3" fill="#d29922"/><circle class="dot" style="animation-delay:1.50s" cx="487.3" cy="329.9" r="3" fill="#2ea043"/><circle class="dot" style="animation-delay:1.55s" cx="487.3" cy="377.4" r="3" fill="#a371f7"/><circle class="dot" style="animation-delay:1.60s" cx="487.3" cy="394.0" r="3" fill="#d29922"/><circle class="dot" style="animation-delay:1.50s" cx="590.7" cy="225.4" r="3" fill="#2ea043"/><circle class="dot" style="animation-delay:1.55s" cx="590.7" cy="379.8" r="3" fill="#a371f7"/><circle class="dot" style="animation-delay:1.60s" cx="590.7" cy="394.0" r="3" fill="#d29922"/><circle class="dot" style="animation-delay:1.50s" cx="694.0" cy="360.8" r="3" fill="#2ea043"/><circle class="dot" style="animation-delay:1.55s" cx="694.0" cy="394.0" r="3" fill="#a371f7"/><circle class="dot" style="animation-delay:1.60s" cx="694.0" cy="394.0" r="3" fill="#d29922"/>
+    <circle class="dot" style="animation-delay:1.50s" cx="74.0" cy="389.3" r="3" fill="#2ea043"/><circle class="dot" style="animation-delay:1.55s" cx="74.0" cy="394.0" r="3" fill="#a371f7"/><circle class="dot" style="animation-delay:1.60s" cx="74.0" cy="394.0" r="3" fill="#d29922"/><circle class="dot" style="animation-delay:1.50s" cx="177.3" cy="394.0" r="3" fill="#2ea043"/><circle class="dot" style="animation-delay:1.55s" cx="177.3" cy="394.0" r="3" fill="#a371f7"/><circle class="dot" style="animation-delay:1.60s" cx="177.3" cy="394.0" r="3" fill="#d29922"/><circle class="dot" style="animation-delay:1.50s" cx="280.7" cy="394.0" r="3" fill="#2ea043"/><circle class="dot" style="animation-delay:1.55s" cx="280.7" cy="394.0" r="3" fill="#a371f7"/><circle class="dot" style="animation-delay:1.60s" cx="280.7" cy="394.0" r="3" fill="#d29922"/><circle class="dot" style="animation-delay:1.50s" cx="384.0" cy="394.0" r="3" fill="#2ea043"/><circle class="dot" style="animation-delay:1.55s" cx="384.0" cy="394.0" r="3" fill="#a371f7"/><circle class="dot" style="animation-delay:1.60s" cx="384.0" cy="394.0" r="3" fill="#d29922"/><circle class="dot" style="animation-delay:1.50s" cx="487.3" cy="329.9" r="3" fill="#2ea043"/><circle class="dot" style="animation-delay:1.55s" cx="487.3" cy="377.4" r="3" fill="#a371f7"/><circle class="dot" style="animation-delay:1.60s" cx="487.3" cy="394.0" r="3" fill="#d29922"/><circle class="dot" style="animation-delay:1.50s" cx="590.7" cy="225.4" r="3" fill="#2ea043"/><circle class="dot" style="animation-delay:1.55s" cx="590.7" cy="379.8" r="3" fill="#a371f7"/><circle class="dot" style="animation-delay:1.60s" cx="590.7" cy="394.0" r="3" fill="#d29922"/><circle class="dot" style="animation-delay:1.50s" cx="694.0" cy="356.0" r="3" fill="#2ea043"/><circle class="dot" style="animation-delay:1.55s" cx="694.0" cy="394.0" r="3" fill="#a371f7"/><circle class="dot" style="animation-delay:1.60s" cx="694.0" cy="394.0" r="3" fill="#d29922"/>
     <text x="74.0" y="412" fill="#8b949e" font-size="10" font-family="sans-serif" text-anchor="middle">fev</text><text x="177.3" y="412" fill="#8b949e" font-size="10" font-family="sans-serif" text-anchor="middle">mar</text><text x="280.7" y="412" fill="#8b949e" font-size="10" font-family="sans-serif" text-anchor="middle">abr</text><text x="384.0" y="412" fill="#8b949e" font-size="10" font-family="sans-serif" text-anchor="middle">mai</text><text x="487.3" y="412" fill="#8b949e" font-size="10" font-family="sans-serif" text-anchor="middle">jun</text><text x="590.7" y="412" fill="#8b949e" font-size="10" font-family="sans-serif" text-anchor="middle">jul</text><text x="694.0" y="412" fill="#8b949e" font-size="10" font-family="sans-serif" text-anchor="middle">ago</text>
     
     <line x1="104" y1="436" x2="120" y2="436" stroke="#2ea043" stroke-width="3"/>
@@ -98,10 +98,10 @@
       <animate attributeName="stroke-dasharray" from="0 490.1" to="43.6 446.5"
         begin="0.90s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
     </circle>
-    <circle cx="908" cy="292" r="78" fill="none" stroke="#b07219" stroke-width="30"
+    <circle cx="908" cy="292" r="78" fill="none" stroke="#484f58" stroke-width="30"
       stroke-dasharray="0 490.1" stroke-dashoffset="-411.7"
       transform="rotate(-90 908 292)" stroke-linecap="butt">
-      <animate attributeName="stroke-dasharray" from="0 490.1" to="25.0 465.1"
+      <animate attributeName="stroke-dasharray" from="0 490.1" to="78.4 411.7"
         begin="1.05s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
     </circle>
     
@@ -131,9 +131,9 @@
       <text x="1060" y="476" fill="#8b949e" font-size="11" font-family="sans-serif" text-anchor="end">8.9%</text>
     </g>
     <g class="fade-up" style="animation-delay:1.20s">
-      <rect x="756" y="485" width="10" height="10" rx="2" fill="#b07219"/>
-      <text x="772" y="494" fill="#8b949e" font-size="11" font-family="sans-serif">Java</text>
-      <text x="1060" y="494" fill="#8b949e" font-size="11" font-family="sans-serif" text-anchor="end">5.1%</text>
+      <rect x="756" y="485" width="10" height="10" rx="2" fill="#484f58"/>
+      <text x="772" y="494" fill="#8b949e" font-size="11" font-family="sans-serif">Outros</text>
+      <text x="1060" y="494" fill="#8b949e" font-size="11" font-family="sans-serif" text-anchor="end">16%</text>
     </g>
   </g>
 </svg>
