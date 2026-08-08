@@ -119,12 +119,24 @@ async function fetchData() {
     }
   }
   const totalBytes = Object.values(langTotals).reduce((a, b) => a + b, 0) || 1;
-  const sortedLangs = Object.entries(langTotals).sort((a, b) => b[1] - a[1]).slice(0, 6);
-  const languages = sortedLangs.map(([name, size]) => ({
+  const allSorted = Object.entries(langTotals).sort((a, b) => b[1] - a[1]);
+  const TOP_N = 5;
+  const top = allSorted.slice(0, TOP_N);
+  const rest = allSorted.slice(TOP_N);
+  const restSize = rest.reduce((s, [, size]) => s + size, 0);
+
+  const languages = top.map(([name, size]) => ({
     name,
     pct: Math.round((size / totalBytes) * 1000) / 10,
     color: langColors[name],
   }));
+  if (rest.length > 0 && restSize > 0) {
+    languages.push({
+      name: "Outros",
+      pct: Math.round((restSize / totalBytes) * 1000) / 10,
+      color: "#484f58",
+    });
+  }
 
   return { repoCount, totals, monthly, languages };
 }
