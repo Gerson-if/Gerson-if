@@ -61,7 +61,7 @@ O projeto foi **implementado e testado em uma Organização Militar do Exército
 ## 📊 GitHub
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Gerson-if/Gerson-if/main/generated/dashboard.png" alt="Dashboard de métricas do GitHub de Gerson-if: repositórios, commits, pull requests, issues, atividade mensal e linguagens"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Gerson-if/Gerson-if/main/generated/dashboard.svg" alt="Dashboard animada de métricas do GitHub de Gerson-if: repositórios, commits, pull requests, issues, atividade mensal e linguagens"/>
 </p>
 
 ---
