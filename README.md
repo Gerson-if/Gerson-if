@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -40,7 +40,7 @@ Acredito que a melhor forma de aprender é desenvolvendo projetos. Por isso, uti
 ## 🛠 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,mysql,git,github,vscode,godot"/>
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,mysql,git,github,vscode,godot" alt="Tecnologias que utilizo"/>
 </p>
 
 ---
@@ -53,21 +53,15 @@ Sistema web desenvolvido em **Flask** para gerenciamento de registros de saída.
 
 O projeto foi **implementado e testado em uma Organização Militar do Exército Brasileiro**, sendo utilizado como ferramenta de apoio para o controle administrativo, representando meu principal projeto de aprendizado e evolução.
 
-**Repositório:**
-🔗 https://github.com/Gerson-if/projeto_saida
+**Repositório:** 🔗 [projeto_saida](https://github.com/Gerson-if/projeto_saida)
 
 ---
 
 ## 📊 GitHub
 
 <p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Gerson-if&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson-if&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gerson-if&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Estatísticas do GitHub de Gerson-if"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson-if&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Linguagens mais usadas por Gerson-if"/>
 </p>
 
 ---
@@ -78,7 +72,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson-if&la
 
 Automação da configuração de ambientes Linux para desenvolvimento e implantação.
 
-🔗 https://github.com/Gerson-if/script_servidor_linux
+🔗 [script_servidor_linux](https://github.com/Gerson-if/script_servidor_linux)
 
 ---
 
@@ -86,7 +80,7 @@ Automação da configuração de ambientes Linux para desenvolvimento e implanta
 
 Repositório utilizado para estudos e experimentação com Flask.
 
-🔗 https://github.com/Gerson-if/CursoFlask
+🔗 [CursoFlask](https://github.com/Gerson-if/CursoFlask)
 
 ---
 
@@ -94,26 +88,20 @@ Repositório utilizado para estudos e experimentação com Flask.
 
 Projeto desenvolvido durante os estudos da Godot Engine.
 
-🔗 https://github.com/Gerson-if/SwordFantansy
+🔗 [SwordFantasy](https://github.com/Gerson-if/SwordFantansy)
 
 ---
 
 ## 📫 Contato
 
 <p align="center">
-
-<a href="https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
+  <a href="https://br.linkedin.com/in/gerson-ferreira-de-castro-1a44071bb">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-💡 <strong>"Aprender, construir, testar e evoluir. Um projeto de cada vez."</strong>
-
-</p>corrigir graficos que nao estao fucionando por favor 
+  💡 <strong>"Aprender, construir, testar e evoluir. Um projeto de cada vez."</strong>
+</p>
