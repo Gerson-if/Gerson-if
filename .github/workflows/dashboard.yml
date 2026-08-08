@@ -1,0 +1,42 @@
+name: Gerar dashboard de métricas
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # roda todo dia às 05:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Instalar dependências do sistema para o canvas
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev build-essential
+
+      - name: Instalar dependências Node
+        run: npm install chart.js chartjs-node-canvas canvas
+
+      - name: Gerar dashboard
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TARGET_USER: Gerson-if
+        run: node scripts/generate-dashboard.mjs
+
+      - name: Commitar dashboard atualizada
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add generated/dashboard.png
+          git diff --staged --quiet || git commit -m "Atualiza dashboard de métricas [skip ci]"
+          git push
