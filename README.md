@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2E86FF&center=true&vCenter=true&width=600&lines=Aprendendo+construindo+projetos+reais;Python+%2B+Flask+%2B+SQLAlchemy;Transformando+conhecimento+em+c%C3%B3digo;Sempre+evoluindo%2C+um+commit+de+cada+vez" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2E86FF&center=true&vCenter=true&width=600&lines=Aprendendo+construindo+projetos+reais;Python+%2B+Flask+%2B+Django;Python+%2B+SQLAlchemy;Transformando+conhecimento+em+c%C3%B3digo;Sempre+evoluindo%2C+um+commit+de+cada+vez" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,6 +29,7 @@ Acredito que a melhor forma de aprender é desenvolvendo projetos. Por isso, uti
 
 * 🐍 Python
 * 🌐 Flask
+* 🐍 Django
 * 🗄 SQLAlchemy
 * 🔐 Autenticação e autorização
 * 📊 Dashboards administrativos
