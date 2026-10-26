@@ -42,8 +42,9 @@ Acredito que a melhor forma de aprender é desenvolvendo projetos. Por isso, uti
 
 ## 🛠 Tecnologias
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,mysql,git,github,vscode,godot" alt="Tecnologias que utilizo"/>
+  <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,bootstrap,mysql,sqlite,git,github,vscode,godot" alt="Tecnologias que utilizo"/>
 </p>
 
 ---
