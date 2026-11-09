@@ -77,29 +77,29 @@
     <circle cx="908" cy="292" r="78" fill="none" stroke="#e34c26" stroke-width="30"
       stroke-dasharray="0 490.1" stroke-dashoffset="-165.6"
       transform="rotate(-90 908 292)" stroke-linecap="butt">
-      <animate attributeName="stroke-dasharray" from="0 490.1" to="156.3 333.8"
+      <animate attributeName="stroke-dasharray" from="0 490.1" to="156.8 333.3"
         begin="0.45s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
     </circle>
     <circle cx="908" cy="292" r="78" fill="none" stroke="#4F5D95" stroke-width="30"
-      stroke-dasharray="0 490.1" stroke-dashoffset="-322.0"
+      stroke-dasharray="0 490.1" stroke-dashoffset="-322.5"
       transform="rotate(-90 908 292)" stroke-linecap="butt">
       <animate attributeName="stroke-dasharray" from="0 490.1" to="51.0 439.1"
         begin="0.60s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
     </circle>
     <circle cx="908" cy="292" r="78" fill="none" stroke="#89e051" stroke-width="30"
-      stroke-dasharray="0 490.1" stroke-dashoffset="-373.0"
+      stroke-dasharray="0 490.1" stroke-dashoffset="-373.4"
       transform="rotate(-90 908 292)" stroke-linecap="butt">
       <animate attributeName="stroke-dasharray" from="0 490.1" to="42.1 447.9"
         begin="0.75s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
     </circle>
     <circle cx="908" cy="292" r="78" fill="none" stroke="#f1e05a" stroke-width="30"
-      stroke-dasharray="0 490.1" stroke-dashoffset="-415.1"
+      stroke-dasharray="0 490.1" stroke-dashoffset="-415.6"
       transform="rotate(-90 908 292)" stroke-linecap="butt">
       <animate attributeName="stroke-dasharray" from="0 490.1" to="31.4 458.7"
         begin="0.90s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
     </circle>
     <circle cx="908" cy="292" r="78" fill="none" stroke="#484f58" stroke-width="30"
-      stroke-dasharray="0 490.1" stroke-dashoffset="-446.5"
+      stroke-dasharray="0 490.1" stroke-dashoffset="-447.0"
       transform="rotate(-90 908 292)" stroke-linecap="butt">
       <animate attributeName="stroke-dasharray" from="0 490.1" to="43.6 446.5"
         begin="1.05s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
@@ -113,7 +113,7 @@
     <g class="fade-up" style="animation-delay:0.96s">
       <rect x="756" y="413" width="10" height="10" rx="2" fill="#e34c26"/>
       <text x="772" y="422" fill="#8b949e" font-size="11" font-family="sans-serif">HTML</text>
-      <text x="1060" y="422" fill="#8b949e" font-size="11" font-family="sans-serif" text-anchor="end">31.9%</text>
+      <text x="1060" y="422" fill="#8b949e" font-size="11" font-family="sans-serif" text-anchor="end">32%</text>
     </g>
     <g class="fade-up" style="animation-delay:1.02s">
       <rect x="756" y="431" width="10" height="10" rx="2" fill="#4F5D95"/>
